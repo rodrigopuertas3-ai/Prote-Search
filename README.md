@@ -1,5 +1,5 @@
-### Buscador de Cromoproteinas especializado en: https://www.uniprot.org/uniprotkb
-Solo ingresa el nombre/ID de la cromoproteína, extrae la siguiente informacion en un excel:
+# ProteSearch: 
+Solo ingresa el nombre/ID de la cromoproteína o link extraido de *www.uniprot.org/uniprotkb*, y **ProteSearch** extraera la siguiente informacion en un excel:
 - ID de secuencia
 - EMBL/GenBank ID(s)
 - Nombre cromoproteína
