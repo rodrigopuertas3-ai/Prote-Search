@@ -1,14 +1,14 @@
 # ProteSearch: 
-Solo ingresa el nombre/ID de la cromoproteína o link extraido de *www.uniprot.org/uniprotkb*, y **ProteSearch** extraera la siguiente informacion en un excel:
-- ID de secuencia
+Simply enter the chromoprotein name/ID or the link from *www.uniprot.org/uniprotkb*, and **ProteSearch** will extract the following information into an Excel file:
+- Sequence ID
 - EMBL/GenBank ID(s)
-- Nombre cromoproteína
-- Secuencia (aa)
-- Longitud secuencia (aa)
-- pI (teórico)
-- Organismo de origen
-- Absorbancia (nm)
-- Emisión (nm)
-- Referencias (hasta 3)
-- Peso molecular (Da)
-- Link UniProt
+- Chromoprotein Name
+- Sequence (aa)
+- Sequence Length (aa)
+- pI (theoretical)
+- Organism of Origin
+- Absorbance (nm)
+- Emission (nm)
+- References (up to 3)
+- Molecular Weight (Da)
+- UniProt Link
